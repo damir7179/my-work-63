@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    box-shadow: 0px 0px 10px 1px aqua;
+    margin: auto;
+    margin-top: 50px;
+}
+body{
+    background-color: black;
+}
